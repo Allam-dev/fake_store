@@ -1,6 +1,6 @@
 import 'package:logger/logger.dart';
 
-abstract class LoggerUtils {
+abstract class Log {
   static final Logger _logger = Logger();
 
   static debug(String message) {

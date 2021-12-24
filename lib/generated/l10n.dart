@@ -60,11 +60,71 @@ class S {
     );
   }
 
-  /// `Check Your Internet Connection`
+  /// `Check your nternet onnection`
   String get check_your_internet_connection {
     return Intl.message(
-      'Check Your Internet Connection',
+      'Check your nternet onnection',
       name: 'check_your_internet_connection',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `It take long time`
+  String get it_take_long_time {
+    return Intl.message(
+      'It take long time',
+      name: 'it_take_long_time',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Try again`
+  String get try_again {
+    return Intl.message(
+      'Try again',
+      name: 'try_again',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `e-mail`
+  String get email {
+    return Intl.message(
+      'e-mail',
+      name: 'email',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `password`
+  String get password {
+    return Intl.message(
+      'password',
+      name: 'password',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Something went wrong`
+  String get something_went_wrong {
+    return Intl.message(
+      'Something went wrong',
+      name: 'something_went_wrong',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `the request is cancelled`
+  String get the_request_is_cancelled {
+    return Intl.message(
+      'the request is cancelled',
+      name: 'the_request_is_cancelled',
       desc: '',
       args: [],
     );

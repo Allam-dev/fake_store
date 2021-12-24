@@ -1,4 +1,10 @@
 {
     "ooobs": "عذرًا",
-    "check_your_internet_connection": "تحقق من اتصالك بالإنترنت"
+    "check_your_internet_connection": "تحقق من اتصالك بالإنترنت",
+    "it_take_long_time":"لقد استغرق وقتا اكثر من اللازم",
+    "try_again":"حاول مجددا",
+    "email":"البريد الالكترونى",
+    "password":"كلمه المرور",
+    "something_went_wrong":"هناك خطأ ما",
+    "the_request_is_cancelled":"تم إلغاء الطلب"
 }

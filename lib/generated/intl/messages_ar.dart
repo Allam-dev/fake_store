@@ -24,6 +24,15 @@ class MessageLookup extends MessageLookupByLibrary {
   static Map<String, Function> _notInlinedMessages(_) => <String, Function>{
         "check_your_internet_connection":
             MessageLookupByLibrary.simpleMessage("تحقق من اتصالك بالإنترنت"),
-        "ooobs": MessageLookupByLibrary.simpleMessage("عذرًا")
+        "email": MessageLookupByLibrary.simpleMessage("البريد الالكترونى"),
+        "it_take_long_time": MessageLookupByLibrary.simpleMessage(
+            "لقد استغرق وقتا اكثر من اللازم"),
+        "ooobs": MessageLookupByLibrary.simpleMessage("عذرًا"),
+        "password": MessageLookupByLibrary.simpleMessage("كلمه المرور"),
+        "something_went_wrong":
+            MessageLookupByLibrary.simpleMessage("هناك خطأ ما"),
+        "the_request_is_cancelled":
+            MessageLookupByLibrary.simpleMessage("تم إلغاء الطلب"),
+        "try_again": MessageLookupByLibrary.simpleMessage("حاول مجددا")
       };
 }

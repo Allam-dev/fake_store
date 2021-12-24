@@ -1,4 +1,10 @@
 {
     "ooobs":"Ooobs",
-    "check_your_internet_connection":"Check Your Internet Connection"
+    "check_your_internet_connection":"Check your nternet onnection",
+    "it_take_long_time":"It take long time",
+    "try_again":"Try again",
+    "email":"e-mail",
+    "password":"password",
+    "something_went_wrong":"Something went wrong",
+    "the_request_is_cancelled":"the request is cancelled"
 }
