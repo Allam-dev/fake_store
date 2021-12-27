@@ -2,9 +2,9 @@ import 'package:fake_store/widgets/offline_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_offline/flutter_offline.dart';
 
-class OfflineChecker extends StatelessWidget {
+class OnlineBuilder extends StatelessWidget {
   Widget onlineWidget;
-  OfflineChecker({Key? key, required this.onlineWidget}) : super(key: key);
+  OnlineBuilder({Key? key, required this.onlineWidget}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

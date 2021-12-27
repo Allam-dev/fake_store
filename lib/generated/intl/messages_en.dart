@@ -27,8 +27,10 @@ class MessageLookup extends MessageLookupByLibrary {
         "email": MessageLookupByLibrary.simpleMessage("e-mail"),
         "it_take_long_time":
             MessageLookupByLibrary.simpleMessage("It take long time"),
+        "logIn": MessageLookupByLibrary.simpleMessage("Log in"),
         "ooobs": MessageLookupByLibrary.simpleMessage("Ooobs"),
         "password": MessageLookupByLibrary.simpleMessage("password"),
+        "select_user": MessageLookupByLibrary.simpleMessage("Select user"),
         "something_went_wrong":
             MessageLookupByLibrary.simpleMessage("Something went wrong"),
         "the_request_is_cancelled":

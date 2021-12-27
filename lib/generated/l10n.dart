@@ -129,6 +129,26 @@ class S {
       args: [],
     );
   }
+
+  /// `Log in`
+  String get logIn {
+    return Intl.message(
+      'Log in',
+      name: 'logIn',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Select user`
+  String get select_user {
+    return Intl.message(
+      'Select user',
+      name: 'select_user',
+      desc: '',
+      args: [],
+    );
+  }
 }
 
 class AppLocalizationDelegate extends LocalizationsDelegate<S> {

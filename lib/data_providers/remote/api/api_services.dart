@@ -32,7 +32,7 @@ class ApiServices {
 
   void _printResponse(Response response) {
     Log.debug(
-        "status code : ${response.statusCode}\nstatus message : ${response.statusMessage}\ndata : ${response.data}");
+        "status code : ${response.statusCode}\nstatus message : ${response.statusMessage}\ndata : ${response}");
   }
 
   Future<Response?> request({
