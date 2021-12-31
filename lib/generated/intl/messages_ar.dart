@@ -25,6 +25,8 @@ class MessageLookup extends MessageLookupByLibrary {
         "check_your_internet_connection":
             MessageLookupByLibrary.simpleMessage("تحقق من اتصالك بالإنترنت"),
         "email": MessageLookupByLibrary.simpleMessage("البريد الالكترونى"),
+        "email_not_valid":
+            MessageLookupByLibrary.simpleMessage("البريد الإلكتروني غير صالح"),
         "it_take_long_time": MessageLookupByLibrary.simpleMessage(
             "لقد استغرق وقتا اكثر من اللازم"),
         "logIn": MessageLookupByLibrary.simpleMessage("تسجيل الدخول"),
@@ -35,6 +37,8 @@ class MessageLookup extends MessageLookupByLibrary {
             MessageLookupByLibrary.simpleMessage("هناك خطأ ما"),
         "the_request_is_cancelled":
             MessageLookupByLibrary.simpleMessage("تم إلغاء الطلب"),
+        "this_field_is_required":
+            MessageLookupByLibrary.simpleMessage("هذه الخانة مطلوبه"),
         "try_again": MessageLookupByLibrary.simpleMessage("حاول مجددا")
       };
 }

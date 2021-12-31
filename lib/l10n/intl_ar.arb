@@ -8,5 +8,7 @@
     "something_went_wrong":"هناك خطأ ما",
     "the_request_is_cancelled":"تم إلغاء الطلب",
     "logIn":"تسجيل الدخول",
-    "select_user":"اختر مستخدم"
+    "select_user":"اختر مستخدم",
+    "this_field_is_required":"هذه الخانة مطلوبه",
+    "email_not_valid":"البريد الإلكتروني غير صالح"
 }

@@ -8,5 +8,7 @@
     "something_went_wrong":"Something went wrong",
     "the_request_is_cancelled":"the request is cancelled",
     "logIn":"Log in",
-    "select_user":"Select user"
+    "select_user":"Select user",
+    "this_field_is_required":"This field is required",
+    "email_not_valid":"email not valid"
 }

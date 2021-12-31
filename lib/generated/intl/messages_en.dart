@@ -25,6 +25,8 @@ class MessageLookup extends MessageLookupByLibrary {
         "check_your_internet_connection": MessageLookupByLibrary.simpleMessage(
             "Check your nternet onnection"),
         "email": MessageLookupByLibrary.simpleMessage("e-mail"),
+        "email_not_valid":
+            MessageLookupByLibrary.simpleMessage("email not valid"),
         "it_take_long_time":
             MessageLookupByLibrary.simpleMessage("It take long time"),
         "logIn": MessageLookupByLibrary.simpleMessage("Log in"),
@@ -35,6 +37,8 @@ class MessageLookup extends MessageLookupByLibrary {
             MessageLookupByLibrary.simpleMessage("Something went wrong"),
         "the_request_is_cancelled":
             MessageLookupByLibrary.simpleMessage("the request is cancelled"),
+        "this_field_is_required":
+            MessageLookupByLibrary.simpleMessage("This field is required"),
         "try_again": MessageLookupByLibrary.simpleMessage("Try again")
       };
 }

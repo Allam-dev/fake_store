@@ -149,6 +149,26 @@ class S {
       args: [],
     );
   }
+
+  /// `This field is required`
+  String get this_field_is_required {
+    return Intl.message(
+      'This field is required',
+      name: 'this_field_is_required',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `email not valid`
+  String get email_not_valid {
+    return Intl.message(
+      'email not valid',
+      name: 'email_not_valid',
+      desc: '',
+      args: [],
+    );
+  }
 }
 
 class AppLocalizationDelegate extends LocalizationsDelegate<S> {
